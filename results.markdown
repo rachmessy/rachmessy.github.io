@@ -24,7 +24,7 @@ __Bert Results__
 
 <img src="/images/bert_2.png" alt="distribution" width="300" height="200">
 
-<img src="/images/bert_3.png" alt="distribution" width="300" height="200">
+<img src="/images/bert_4.png" alt="distribution" width="300" height="200">
 
 __SimpleCNN Results__
 
