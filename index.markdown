@@ -4,7 +4,7 @@
 
 layout: home
 ---
-# Introduction & Objectives
+# Introduction
 
 __Project Motivation__
 
